@@ -1,4 +1,4 @@
--- skidded at https://discord.gg/A9Qf6pqfET Join aero today
+
 do
     local __wt_env_end_tamper_post_9 = _G or _ENV
     local __wt_type_end_tamper_post_9 = type
